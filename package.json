@@ -1,0 +1,25 @@
+{
+  "name": "xacml",
+  "version": "0.0.0",
+  "description": "eXtensible Access Control Markup Language 3.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxxa/xacml.git"
+  },
+  "keywords": [
+    "xacml",
+    "authorization",
+    "access",
+    "control"
+  ],
+  "author": "Conrad Pankoff <deoxxa@fknsrs.biz> (http://www.fknsrs.biz/)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/deoxxa/xacml/issues"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "jsonix-smart": "0.0.5"
+  }
+}
